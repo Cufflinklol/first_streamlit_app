@@ -34,7 +34,6 @@ try:
         streamlit.dataframe(back_from_function)
 
 
-streamlit.write ('The user entered', fruit_choice)
 
 
 streamlit.stop()
